@@ -14,7 +14,7 @@ void func(int cnt) {
 
 
 
-    }
+}
 
 int main() {
    cin >> N >> M;
